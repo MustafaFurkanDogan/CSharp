@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C#\\CSharpCourse1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2DBCEAE8-16A9-48FA-B313-A855C5A03D3B}|TypsAndVariables\\TypsAndVariables.csproj|c:\\c#\\csharpcourse1\\typsandvariables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DBCEAE8-16A9-48FA-B313-A855C5A03D3B}|TypsAndVariables\\TypsAndVariables.csproj|solutionrelative:typsandvariables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3D78BC-04B5-4B74-87B2-F1DA98D3E528}|Stringss\\Stringss.csproj|c:\\c#\\csharpcourse1\\stringss\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D3D78BC-04B5-4B74-87B2-F1DA98D3E528}|Stringss\\Stringss.csproj|solutionrelative:stringss\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55D8BC3A-9651-430D-B7FA-89F4F5A79E92}|Methods\\Methods.csproj|c:\\c#\\csharpcourse1\\methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55D8BC3A-9651-430D-B7FA-89F4F5A79E92}|Methods\\Methods.csproj|solutionrelative:methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{155CFF86-6E6D-4713-96DB-F16A04ACEFA6}|Loops\\Loops.csproj|c:\\c#\\csharpcourse1\\loops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{155CFF86-6E6D-4713-96DB-F16A04ACEFA6}|Loops\\Loops.csproj|solutionrelative:loops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47734148-1499-4456-9E43-467C08FD1893}|\u0130nheritance\\\u0130nheritance.csproj|c:\\c#\\csharpcourse1\\\u0130nheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47734148-1499-4456-9E43-467C08FD1893}|\u0130nheritance\\\u0130nheritance.csproj|solutionrelative:\u0130nheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F29A92C3-F5DA-47E8-90DE-ABD16221B3F4}|InterfacesDemo\\InterfacesDemo.csproj|c:\\c#\\csharpcourse1\\interfacesdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F29A92C3-F5DA-47E8-90DE-ABD16221B3F4}|InterfacesDemo\\InterfacesDemo.csproj|solutionrelative:interfacesdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF1836DF-6732-4B67-A72E-5CB7998F6CF4}|Interfaces\\Interfaces.csproj|c:\\c#\\csharpcourse1\\interfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF1836DF-6732-4B67-A72E-5CB7998F6CF4}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF1836DF-6732-4B67-A72E-5CB7998F6CF4}|Interfaces\\Interfaces.csproj|c:\\c#\\csharpcourse1\\interfaces\\icustomerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF1836DF-6732-4B67-A72E-5CB7998F6CF4}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\icustomerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF1836DF-6732-4B67-A72E-5CB7998F6CF4}|Interfaces\\Interfaces.csproj|c:\\c#\\csharpcourse1\\interfaces\\customermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF1836DF-6732-4B67-A72E-5CB7998F6CF4}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\customermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{344A6A15-CE86-4AEF-9011-397C6B783E70}|Conditionals\\Conditionals.csproj|c:\\c#\\csharpcourse1\\conditionals\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{344A6A15-CE86-4AEF-9011-397C6B783E70}|Conditionals\\Conditionals.csproj|solutionrelative:conditionals\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6C53B8-9915-40BE-B00C-59F1848D186E}|Arrays\\Arrays.csproj|c:\\c#\\csharpcourse1\\arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD6C53B8-9915-40BE-B00C-59F1848D186E}|Arrays\\Arrays.csproj|solutionrelative:arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\C#\\CSharpCourse1\\TypsAndVariables\\Program.cs",
+              "RelativeDocumentMoniker": "TypsAndVariables\\Program.cs",
+              "ToolTip": "C:\\C#\\CSharpCourse1\\TypsAndVariables\\Program.cs",
+              "RelativeToolTip": "TypsAndVariables\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T20:08:25.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\C#\\CSharpCourse1\\Stringss\\Program.cs",
+              "RelativeDocumentMoniker": "Stringss\\Program.cs",
+              "ToolTip": "C:\\C#\\CSharpCourse1\\Stringss\\Program.cs",
+              "RelativeToolTip": "Stringss\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T20:08:19.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\C#\\CSharpCourse1\\Methods\\Program.cs",
+              "RelativeDocumentMoniker": "Methods\\Program.cs",
+              "ToolTip": "C:\\C#\\CSharpCourse1\\Methods\\Program.cs",
+              "RelativeToolTip": "Methods\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T20:08:10.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\C#\\CSharpCourse1\\Loops\\Program.cs",
+              "RelativeDocumentMoniker": "Loops\\Program.cs",
+              "ToolTip": "C:\\C#\\CSharpCourse1\\Loops\\Program.cs",
+              "RelativeToolTip": "Loops\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T20:08:01.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\C#\\CSharpCourse1\\\u0130nheritance\\Program.cs",
+              "RelativeDocumentMoniker": "\u0130nheritance\\Program.cs",
+              "ToolTip": "C:\\C#\\CSharpCourse1\\\u0130nheritance\\Program.cs",
+              "RelativeToolTip": "\u0130nheritance\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T20:07:52.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\C#\\CSharpCourse1\\InterfacesDemo\\Program.cs",
+              "RelativeDocumentMoniker": "InterfacesDemo\\Program.cs",
+              "ToolTip": "C:\\C#\\CSharpCourse1\\InterfacesDemo\\Program.cs",
+              "RelativeToolTip": "InterfacesDemo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T20:07:43.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\C#\\CSharpCourse1\\Interfaces\\Program.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Program.cs",
+              "ToolTip": "C:\\C#\\CSharpCourse1\\Interfaces\\Program.cs",
+              "RelativeToolTip": "Interfaces\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T20:07:35.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICustomerDal.cs",
+              "DocumentMoniker": "C:\\C#\\CSharpCourse1\\Interfaces\\ICustomerDal.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ICustomerDal.cs",
+              "ToolTip": "C:\\C#\\CSharpCourse1\\Interfaces\\ICustomerDal.cs",
+              "RelativeToolTip": "Interfaces\\ICustomerDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T20:07:26.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomerManager.cs",
+              "DocumentMoniker": "C:\\C#\\CSharpCourse1\\Interfaces\\CustomerManager.cs",
+              "RelativeDocumentMoniker": "Interfaces\\CustomerManager.cs",
+              "ToolTip": "C:\\C#\\CSharpCourse1\\Interfaces\\CustomerManager.cs",
+              "RelativeToolTip": "Interfaces\\CustomerManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T20:07:22.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\C#\\CSharpCourse1\\Conditionals\\Program.cs",
+              "RelativeDocumentMoniker": "Conditionals\\Program.cs",
+              "ToolTip": "C:\\C#\\CSharpCourse1\\Conditionals\\Program.cs",
+              "RelativeToolTip": "Conditionals\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T20:07:12.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\C#\\CSharpCourse1\\Arrays\\Program.cs",
+              "RelativeDocumentMoniker": "Arrays\\Program.cs",
+              "ToolTip": "C:\\C#\\CSharpCourse1\\Arrays\\Program.cs",
+              "RelativeToolTip": "Arrays\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T20:06:56.056Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
