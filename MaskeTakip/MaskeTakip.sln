@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Workaround", "Workaround\Workaround.csproj", "{574E2610-3254-4AF6-9F04-B1410EA1D94E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entities", "Entities\Entities.csproj", "{C4892630-21B5-4EE6-87DD-684E06EDC011}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Businness", "Businness\Businness.csproj", "{BFBB3202-309D-4A74-93E5-E308D739E71B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{574E2610-3254-4AF6-9F04-B1410EA1D94E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{574E2610-3254-4AF6-9F04-B1410EA1D94E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{574E2610-3254-4AF6-9F04-B1410EA1D94E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{574E2610-3254-4AF6-9F04-B1410EA1D94E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4892630-21B5-4EE6-87DD-684E06EDC011}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4892630-21B5-4EE6-87DD-684E06EDC011}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4892630-21B5-4EE6-87DD-684E06EDC011}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4892630-21B5-4EE6-87DD-684E06EDC011}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFBB3202-309D-4A74-93E5-E308D739E71B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFBB3202-309D-4A74-93E5-E308D739E71B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFBB3202-309D-4A74-93E5-E308D739E71B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFBB3202-309D-4A74-93E5-E308D739E71B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AF39764-34EE-4EFB-8F6C-9A094611732D}
+	EndGlobalSection
+EndGlobal

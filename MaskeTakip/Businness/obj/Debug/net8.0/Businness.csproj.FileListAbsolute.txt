@@ -1,0 +1,15 @@
+C:\C#\MaskeTakip\Businness\obj\Debug\net8.0\Businness.csproj.AssemblyReference.cache
+C:\C#\MaskeTakip\Businness\obj\Debug\net8.0\Businness.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\MaskeTakip\Businness\obj\Debug\net8.0\Businness.AssemblyInfoInputs.cache
+C:\C#\MaskeTakip\Businness\obj\Debug\net8.0\Businness.AssemblyInfo.cs
+C:\C#\MaskeTakip\Businness\obj\Debug\net8.0\Businness.csproj.CoreCompileInputs.cache
+C:\C#\MaskeTakip\Businness\bin\Debug\net8.0\Businness.deps.json
+C:\C#\MaskeTakip\Businness\bin\Debug\net8.0\Businness.dll
+C:\C#\MaskeTakip\Businness\bin\Debug\net8.0\Businness.pdb
+C:\C#\MaskeTakip\Businness\bin\Debug\net8.0\Entities.dll
+C:\C#\MaskeTakip\Businness\bin\Debug\net8.0\Entities.pdb
+C:\C#\MaskeTakip\Businness\obj\Debug\net8.0\Businness.csproj.CopyComplete
+C:\C#\MaskeTakip\Businness\obj\Debug\net8.0\Businness.dll
+C:\C#\MaskeTakip\Businness\obj\Debug\net8.0\refint\Businness.dll
+C:\C#\MaskeTakip\Businness\obj\Debug\net8.0\Businness.pdb
+C:\C#\MaskeTakip\Businness\obj\Debug\net8.0\ref\Businness.dll

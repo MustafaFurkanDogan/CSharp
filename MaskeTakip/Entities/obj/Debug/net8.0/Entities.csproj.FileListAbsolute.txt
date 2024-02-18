@@ -1,0 +1,11 @@
+C:\C#\MaskeTakip\Entities\bin\Debug\net8.0\Entities.deps.json
+C:\C#\MaskeTakip\Entities\bin\Debug\net8.0\Entities.dll
+C:\C#\MaskeTakip\Entities\bin\Debug\net8.0\Entities.pdb
+C:\C#\MaskeTakip\Entities\obj\Debug\net8.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\MaskeTakip\Entities\obj\Debug\net8.0\Entities.AssemblyInfoInputs.cache
+C:\C#\MaskeTakip\Entities\obj\Debug\net8.0\Entities.AssemblyInfo.cs
+C:\C#\MaskeTakip\Entities\obj\Debug\net8.0\Entities.csproj.CoreCompileInputs.cache
+C:\C#\MaskeTakip\Entities\obj\Debug\net8.0\Entities.dll
+C:\C#\MaskeTakip\Entities\obj\Debug\net8.0\refint\Entities.dll
+C:\C#\MaskeTakip\Entities\obj\Debug\net8.0\Entities.pdb
+C:\C#\MaskeTakip\Entities\obj\Debug\net8.0\ref\Entities.dll
