@@ -1,0 +1,7 @@
+C:\C#\CSharpCourse2\ReferencetTypes\bin\Debug\ReferencetTypes.exe.config
+C:\C#\CSharpCourse2\ReferencetTypes\bin\Debug\ReferencetTypes.exe
+C:\C#\CSharpCourse2\ReferencetTypes\bin\Debug\ReferencetTypes.pdb
+C:\C#\CSharpCourse2\ReferencetTypes\obj\Debug\ReferencetTypes.csproj.AssemblyReference.cache
+C:\C#\CSharpCourse2\ReferencetTypes\obj\Debug\ReferencetTypes.csproj.CoreCompileInputs.cache
+C:\C#\CSharpCourse2\ReferencetTypes\obj\Debug\ReferencetTypes.exe
+C:\C#\CSharpCourse2\ReferencetTypes\obj\Debug\ReferencetTypes.pdb

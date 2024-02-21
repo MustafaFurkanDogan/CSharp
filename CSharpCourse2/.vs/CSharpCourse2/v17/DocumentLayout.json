@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C#\\CSharpCourse2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBAA0142-AC26-4EEF-A94B-98650D18B486}|LinqProject\\LinqProject.csproj|c:\\c#\\csharpcourse2\\linqproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBAA0142-AC26-4EEF-A94B-98650D18B486}|LinqProject\\LinqProject.csproj|solutionrelative:linqproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\C#\\CSharpCourse2\\LinqProject\\Program.cs",
+              "RelativeDocumentMoniker": "LinqProject\\Program.cs",
+              "ToolTip": "C:\\C#\\CSharpCourse2\\LinqProject\\Program.cs",
+              "RelativeToolTip": "LinqProject\\Program.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAAEIAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T00:54:03.171Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

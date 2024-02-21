@@ -1,0 +1,7 @@
+C:\C#\CSharpCourse2\Consturactor\bin\Debug\Consturactor.exe.config
+C:\C#\CSharpCourse2\Consturactor\bin\Debug\Consturactor.exe
+C:\C#\CSharpCourse2\Consturactor\bin\Debug\Consturactor.pdb
+C:\C#\CSharpCourse2\Consturactor\obj\Debug\Consturactor.csproj.AssemblyReference.cache
+C:\C#\CSharpCourse2\Consturactor\obj\Debug\Consturactor.csproj.CoreCompileInputs.cache
+C:\C#\CSharpCourse2\Consturactor\obj\Debug\Consturactor.exe
+C:\C#\CSharpCourse2\Consturactor\obj\Debug\Consturactor.pdb
